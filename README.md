@@ -76,25 +76,6 @@ var developer = new Developer
 
 ---
 
-## 📈 What I'm Working On
-
-```mermaid
-graph LR
-    A[Production Data] --> B[Data Pipeline]
-    B --> C[Snowflake DWH]
-    C --> D[Analytics Platform]
-    D --> E[Smart Insights]
-    style C fill:#56B4E9
-    style D fill:#512BD4
-```
-
-- 🔄 Building real-time data synchronization systems
-- 📊 Developing production analytics dashboards
-- 🤖 Implementing automated quality control solutions
-- ☁️ Migrating legacy systems to cloud-native architectures
-
----
-
 ## 🎯 Core Competencies
 
 <table>
